@@ -16,13 +16,3 @@
 * Meeting regularly
 
 
-## Week 2 (Nov 5 - Nov 12)
-
-### What did your team do last week?
-...
-
-### What will you do this week?
-...
-
-### Any blocking issues/challenges need to be addressed?
-...
