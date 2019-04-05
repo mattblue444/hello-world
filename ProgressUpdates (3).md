@@ -34,13 +34,12 @@
 ## Week 3(Mar 25 Mar 29)
 
 ### What did your team do last week?
-* Adapt code to fit project needs
-* Test for errors
-
-
-### What will you do this week?
 * Get code to work
 * Add key encryption
+
+### What will you do this week?
+Integrate Java and Javascript codes
+Begin developing report
 
 ### Any blocking issues/challenges need to be addressed?
 * Encrypting Mechat app 
@@ -59,6 +58,3 @@
 ### Any blocking issues/challenges need to be addressed?
 * Finding a regular meeting time
 * Meeting regularly
-
-* Get code to work
-* Add key encryption
