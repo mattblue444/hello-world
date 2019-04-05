@@ -16,3 +16,49 @@
 * Meeting regularly
 
 
+## Week 2 (Mar 18 - Mar 22)
+
+### What did your team do last week?
+* Adapt code to fit project needs
+* Test for errors
+
+
+### What will you do this week?
+* Get code to work
+* Add key encryption
+
+### Any blocking issues/challenges need to be addressed?
+* Encrypting Mechat app 
+* Better communication with group mates
+
+## Week 3(Mar 25 Mar 29)
+
+### What did your team do last week?
+* Adapt code to fit project needs
+* Test for errors
+
+
+### What will you do this week?
+* Get code to work
+* Add key encryption
+
+### Any blocking issues/challenges need to be addressed?
+* Encrypting Mechat app 
+* Better communication with group mates
+
+## Week 4 (April 1 - April 5)
+
+### What did your team do last week?
+* Get code to work
+* Add key encryption
+
+### What will you do this week?
+* Practice presentation
+* Complete report
+
+### Any blocking issues/challenges need to be addressed?
+* Finding a regular meeting time
+* Meeting regularly
+
+* Get code to work
+* Add key encryption
